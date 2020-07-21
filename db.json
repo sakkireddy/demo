@@ -1,8 +1,8 @@
 {
-  "employee 1": [
+  "employee_1": [
     { "employee id": 1}, {"sick leave": 5}, {"regular leave": 20},{"maternity leave":14} 
   ],
-  "employee 2": [
+  "employee_2": [
     { "employee id": 2}, {"sick leave": 4}, {"regular leave": 15},{"maternity leave":14}
   ],
   "company name": {
