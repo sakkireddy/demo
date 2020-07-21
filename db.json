@@ -5,7 +5,7 @@
   "employee_2": [
     { "employee id": 2}, {"sick leave": 4}, {"regular leave": 15},{"maternity leave":14}
   ],
-  "company name": {
+  "company_name": {
     "name": "Virtusa"
   }
 }
