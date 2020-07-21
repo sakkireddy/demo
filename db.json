@@ -1,9 +1,11 @@
-{"employee_1":[
+{
   
-    { "employee_id": 1, "sick": 5, "regular": 20 ,"maternity" :14} 
+  "employee_1":[
+  
+    { "id":"1","employee_id": 1, "sick": 5, "regular": 20 ,"maternity" :14},{"id":"2","type":"type 1","start":"start 1","end":"end 1"}
  ],
   "employee_2":[
-    {"employee_id" : 2, "sick": 4, "regular": 15, "maternity":14}
+    {"id":"1","employee_id" : 2, "sick": 4, "regular": 15, "maternity":14},{"id":"2","type":"type 1","start":"start 1","end":"end 1"}
 
   ]
 
