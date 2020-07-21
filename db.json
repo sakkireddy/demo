@@ -1,14 +1,15 @@
 {
-  "users": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "balance": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "employee id": 1, "sick leave": 5, "regular leave": 20,"maternity leave":14 },
+    { "employee id": 2, "sick leave": 4, "regular leave": 15,"maternity leave":14},
+    { "employee id": 3, "sick leave": 4, "regular leave": 15,"maternity leave":14 }
   ],
-  "credit card": {
-    "name": "citibank"
+  "latest": [
+    { "id": 1 },
+    { "id": 2 },
+    {"id": 3}
+  ],
+  "company name": {
+    "name": "Virtusa"
   }
 }
