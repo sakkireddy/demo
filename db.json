@@ -7,12 +7,12 @@
   "employee_2": [
     {"id":"1","employee_id" : 2, "sick": 4, "regular": 15, "maternity":14},{"id":"2","type":"regular","start":"03-08-2020","end":"05-08-2020"}
 
-  ]
+  ],
 "c_9666546486": [
   
     { "id":"1","name":"jack","phone_number": "9666546486", "source": "hyderabad", "destination": "delhi" ,"travel_date" :"29-07-2020"},{"id":"2","name":"jack","phone_number":"9666546486","cab_type":"suv", "location":"delhi"}
 
-]
+],
 
 "c_9246806018": [
   
