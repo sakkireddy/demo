@@ -8,5 +8,13 @@
     {"id":"1","employee_id" : 2, "sick": 4, "regular": 15, "maternity":14},{"id":"2","type":"regular","start":"03-08-2020","end":"05-08-2020"}
 
   ]
+"customer_9666546486":[
+  
+    { "id":"1","name":"jack","phone_number": "9666546486", "source": "hyderabad", "destination": "delhi" ,"travel_date" :"29-07-2020"},{"id":"2","name":"jack","phone_number":"9666546486","cab_type":"suv", "location":"delhi"}
+]
 
+"customer_9246806018":[
+  
+    { "id":"1","name":"jill","phone_number": "9246806018", "source": "hyderabad", "destination": "bangalore" ,"travel_date" :"30-07-2020"},{"id":"2","name":"jill","phone_number":"9246806018","cab_type":"sedan", "location":"bangalore"}
+]
 }
